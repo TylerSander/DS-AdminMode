@@ -16,6 +16,8 @@ An **admin / cheat menu** for [Data Center](https://store.steampowered.com/app/4
 1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader) into Data Center.
 2. Download `DS-AdminMode_v*.dll` from [Releases](../../releases) and drop it into the game's `Mods` folder.
 
+Mods installed but nothing loads (usually right after a game update)? Install [DS-InteropFix](https://github.com/TylerSander/DS-InteropFix) into the game's `Plugins` folder; it repairs that automatically on every launch.
+
 ## Config
 
 `UserData\DS-AdminMode.cfg`, section `[DSAdminMode]`: `MenuKey` (F6), `FreePurchases`, `FreeXpUnlocks`, `UnlimitedReputation`, `UnlimitedReputationValue` (1000), `VerboseLog`, plus remembered menu values/position.
@@ -29,4 +31,4 @@ An **admin / cheat menu** for [Data Center](https://store.steampowered.com/app/4
 ---
 
 *Part of the DS- mod family by Tyler Sander:*
-[DS-Core](https://github.com/TylerSander/DS-Core) · [DS-Calculator](https://github.com/TylerSander/DS-Calculator) · [DS-QSFP](https://github.com/TylerSander/DS-QSFP) · [DS-Hotbar](https://github.com/TylerSander/DS-Hotbar) · [DS-AdminMode](https://github.com/TylerSander/DS-AdminMode)
+[DS-Core](https://github.com/TylerSander/DS-Core) · [DS-Calculator](https://github.com/TylerSander/DS-Calculator) · [DS-QSFP](https://github.com/TylerSander/DS-QSFP) · [DS-Hotbar](https://github.com/TylerSander/DS-Hotbar) · [DS-AdminMode](https://github.com/TylerSander/DS-AdminMode) · [DS-InteropFix](https://github.com/TylerSander/DS-InteropFix)
